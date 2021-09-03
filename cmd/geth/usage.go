@@ -52,7 +52,7 @@ var AppHelpFlagGroups = []flags.FlagGroup{
 			utils.EthStatsURLFlag,
 			utils.IdentityFlag,
 			utils.LightKDFFlag,
-			utils.WhitelistFlag,
+			utils.AuthorizationListFlag,
 		},
 	},
 	{
